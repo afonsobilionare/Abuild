@@ -1,49 +1,24 @@
 {
-  "tópicos": [
-    {
-      "título": "Conotação",
-      "conteúdo": "A conotação refere-se ao significado implícito ou sugerido de uma palavra ou expressão, que vai além do seu significado literal. Ela pode variar conforme o contexto cultural, social e emocional em que é usada. Por exemplo, a palavra 'coração' pode denotar o órgão vital que bombeia sangue, mas conotativamente pode simbolizar amor, afetividade ou coragem. A conotação é frequentemente utilizada na literatura, publicidade e em discursos persuasivos para criar imagens mentais ou evocar sentimentos específicos. É importante compreender a conotação para interpretar corretamente o tom e a intenção do texto ou fala."
-    },
-    {
-      "título": "Denotação",
-      "conteúdo": "Denotação é o significado literal e objetivo de uma palavra ou expressão, como encontrado em um dicionário. Este significado não é afetado por contextos subjetivos ou emocionais. Por exemplo, a palavra 'mãe' denota a mulher que gerou ou criou um filho. A denotação é crucial para garantir a clareza e a precisão na comunicação, especialmente em textos técnicos, científicos e acadêmicos. Enquanto a conotação pode variar, a denotação é constante e universal, proporcionando uma base sólida para a compreensão objetiva de termos e conceitos."
-    },
-    {
-      "título": "Uso das Vírgulas",
-      "conteúdo": "A vírgula é um sinal de pontuação fundamental que ajuda a separar elementos dentro de uma frase, proporcionando clareza e fluidez ao texto. Seu uso correto é essencial para evitar ambiguidades e melhorar a compreensão. As vírgulas são usadas para separar itens em uma lista, isolar expressões explicativas, delimitar orações coordenadas, entre outros usos. Por exemplo, em uma frase como 'Ele comprou maçãs, laranjas, bananas e peras', as vírgulas separam os itens da lista. No entanto, seu uso pode variar dependendo das regras gramaticais e do estilo de escrita."
-    },
-    {
-      "título": "Uso de Ponto e Vírgula",
-      "conteúdo": "O ponto e vírgula é um sinal de pontuação que serve para separar partes de uma frase que já contêm vírgulas ou para conectar orações independentes que estão intimamente relacionadas. Ele proporciona uma pausa mais longa que a vírgula, mas não tão definitiva quanto o ponto final. Por exemplo, em 'O projeto foi desafiador; no entanto, todos os membros da equipe se saíram muito bem', o ponto e vírgula conecta duas ideias relacionadas. É importante usar o ponto e vírgula de forma apropriada para garantir a coesão e a clareza no texto."
-    },
-    {
-      "título": "Uso de Dois-Pontos",
-      "conteúdo": "Os dois-pontos são usados para introduzir uma explicação, uma citação, uma lista ou um detalhamento. Eles funcionam como um sinal para o leitor de que o que vem a seguir é uma ampliação ou uma especificação do que foi mencionado anteriormente. Por exemplo, em 'Ela trouxe os seguintes itens: pão, leite e queijo', os dois-pontos introduzem a lista. Em 'Ele disse:  Não quero mais discutir sobre isso', os dois-pontos precedem a citação direta. O uso correto dos dois-pontos ajuda a estruturar e organizar a informação no texto."
-    },
-    {
-      "título": "Uso de Travessão",
-      "conteúdo": "O travessão é um sinal de pontuação utilizado para destacar ou isolar partes de uma frase, criar uma interrupção ou indicar uma mudança de interlocutor. Ele pode ser usado para inserir comentários, explicações ou informações adicionais, funcionando de maneira semelhante à vírgula ou aos parênteses, mas com maior ênfase. Por exemplo, em 'O aluno – com a ajuda do professor – conseguiu terminar o trabalho', o travessão isola a informação adicional. O uso do travessão pode conferir um estilo mais informal e dinâmico ao texto, e é importante usá-lo com cuidado para não comprometer a clareza."
-    },
-    {
-      "título": "Uso de Parênteses",
-      "conteúdo": "Os parênteses são usados para incluir informações adicionais ou explicativas que não são essenciais para o entendimento principal da frase, mas que oferecem detalhes extras. Eles ajudam a fornecer contexto ou esclarecimento sem interromper o fluxo da frase principal. Por exemplo, em 'O cachorro (um labrador de três anos) adora brincar no parque', os parênteses inserem uma descrição adicional sobre o cachorro. O uso de parênteses deve ser moderado para evitar sobrecarregar o texto com informações secundárias."
-    },
-    {
-      "título": "Uso de Reticências",
-      "conteúdo": "As reticências são usadas para indicar uma interrupção, uma pausa ou uma continuação do pensamento. Elas podem sugerir que algo foi deixado em aberto ou que o texto continua. Por exemplo, em 'Eu estava pensando em ir ao cinema, mas... talvez seja melhor ficar em casa', as reticências indicam uma hesitação ou uma mudança de ideia. Também podem ser usadas para criar suspense ou enfatizar uma emoção. No entanto, o uso excessivo de reticências pode comprometer a clareza e a fluidez do texto."
-    },
-    {
-      "título": "Diferença Entre 'Por Que', 'Porque', 'Porquê' e 'Por Que'",
-      "conteúdo": "'Por que', 'porque', 'porquê' e 'por que' são formas distintas de usar a expressão que pode causar confusão. 'Por que' (separado e sem acento) é usado em perguntas diretas ou indiretas, como 'Por que você não veio?'. 'Porque' (junto e sem acento) é usado para responder a perguntas, indicando causa ou motivo, como 'Não fui porque estava cansado'. 'Porquê' (junto e com acento) é um substantivo que aparece geralmente precedido de artigo, como em 'Não entendi o porquê da sua decisão'. 'Por que' (separado e com acento) é menos comum e pode aparecer em contextos específicos. Compreender essas diferenças é essencial para a escrita correta e clara."
-    },
-    {
-      "título": "Função das Preposições",
-      "conteúdo": "As preposições são palavras que estabelecem relações entre outras palavras na frase, indicando aspectos como tempo, lugar, causa, entre outros. Elas são fundamentais para a construção de frases coerentes e bem estruturadas. Exemplos de preposições incluem 'em', 'para', 'com', 'por', 'sobre', 'de', entre outras. Por exemplo, na frase 'Ele foi ao mercado com a esposa', a preposição 'com' estabelece a relação entre 'ele' e 'a esposa'. O uso correto das preposições ajuda a clarificar a relação entre diferentes partes da frase e a transmitir a mensagem de forma precisa."
-    },
-    {
-      "título": "Importância da Concordância Verbal e Nominal",
-      "conteúdo": "A concordância verbal e nominal é essencial para a correção gramatical e a clareza no texto. A concordância verbal refere-se ao ajuste do verbo em relação ao sujeito em termos de número e pessoa. Por exemplo, em 'Ele estuda muito' e 'Eles estudam muito', o verbo 'estudar' concorda com o sujeito 'ele' ou 'eles'. A concordância nominal, por sua vez, relaciona o adjetivo com o substantivo em gênero e número, como em 'A casa grande' e 'As casas grandes'. Manter a concordância correta evita erros gramaticais e ajuda na compreensão do texto."
-    }
-  ]
-}
+    "titulo": "Inteligência Racionamente para teste de gitHub Pages",
+    "descricao": "Entenda a importância da inteligência emocional e como ela pode melhorar sua vida pessoal e profissional.",
+    "topicos": [
+      {
+        "subtitulo": "1. O que é Inteligência Emocional?",
+        "conteudo": "A inteligência emocional é a capacidade de identificar, compreender e gerenciar as próprias emoções, bem como reconhecer e influenciar as emoções dos outros. Ela envolve habilidades como empatia, autorregulação e habilidades sociais, e desempenha um papel crucial no sucesso pessoal e profissional.",
+        "image": "safdjksjfhjsdhfjsdhjgfdjkgjdfhjghdfjhgjkfghdfjkhfghfdjghjkfdhgjfdhjgh"
+      },
+      {
+        "subtitulo": "2. A importância da Inteligência Emocional",
+        "conteudo": "Pessoas com alta inteligência emocional tendem a ter melhores relacionamentos, maior sucesso profissional e maior bem-estar geral. Eles são capazes de lidar com o estresse de forma mais eficaz, resolver conflitos de maneira mais construtiva e tomar decisões mais equilibradas."
+      },
+      {
+        "subtitulo": "3. Componentes da Inteligência Emocional",
+        "conteudo": "Os principais componentes da inteligência emocional incluem: autoconsciência (reconhecer suas próprias emoções), autorregulação (gerenciar suas emoções de forma construtiva), motivação (usar suas emoções para alcançar metas), empatia (compreender e compartilhar os sentimentos dos outros) e habilidades sociais (gerenciar relacionamentos de maneira eficaz)."
+      },
+      {
+        "subtitulo": "4. Como desenvolver a Inteligência Emocional",
+        "conteudo": "Para desenvolver a inteligência emocional, é importante praticar a auto-reflexão, buscar feedback sobre seu comportamento emocional, e aprender técnicas de gerenciamento do estresse e resolução de conflitos. Praticar a empatia e melhorar as habilidades de comunicação também são passos cruciais para o crescimento pessoal nesse aspecto."
+      }
+    ]
+  }
   
